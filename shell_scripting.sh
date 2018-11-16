@@ -1,20 +1,20 @@
 #!/bin/bash
 #update date daily at 6:00
 
-DATE=`date "+%d-%m-%Y %a %p%l:%M %Z"`
+DATE=`date "+%d-%m-%Y %a %p %l:%M %Z"`
 Weather=$(curl wttr.in/?0?q?T | awk '/°(C|F)/ {printf $(NF-1) $(NF) " ("a")"} /,/ {a=$0}')
 time=$(date +%d-%m-%Y).png
 
-echo -e "* $DATE   : $Weather" | tee -a /projects/shell_scripting/README.md
+echo -e "* $DATE   : $Weather" | tee -a ~/projects/shell_scripting/README.md
 
-date +%d\ %m\ %Y >> /projects/shell_scripting/weather.md
+date +%d-%m-%Y >> ~/projects/shell_scripting/weather.md
 
-curl -L 'wttr.in/York=.png' -o /projects/shell_scripting/PNG/$time
+curl -L 'wttr.in/York=.png' -o ~/projects/shell_scripting/img/$time
  
-echo -e "\n![](PNG/$time)\n" >> /projects/shell_scripting/weather.md
+echo -e "\n![](img/$time)\n" >> ~/projects/shell_scripting/weather.md
 
-cd projects/shell_scripting
+cd ~/projects/shell_scripting
 git init
 git add .
 git commit -m "update Today's log:)"
-git push -f origin master
+# git push -f origin master
