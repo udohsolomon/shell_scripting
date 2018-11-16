@@ -18,4 +18,4 @@ git init
 git add .
 git commit -m "update Today's log:)"
 git remote add origin https://github.com/udohsolomon/shell_scripting.git
-# git push -f origin master
+git push -f origin master
