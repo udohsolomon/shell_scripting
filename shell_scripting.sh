@@ -1,5 +1,6 @@
 #!/bin/bash
-#update date daily at 6:00
+#update date daily at 6:00 AM
+#Author: Solomon Amos
 
 DATE=`date "+%d-%m-%Y %a %p %l:%M %Z"`
 Weather=$(curl wttr.in/?0?q?T | awk '/°(C|F)/ {printf $(NF-1) $(NF) " ("a")"} /,/ {a=$0}')
