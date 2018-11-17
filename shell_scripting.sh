@@ -10,7 +10,7 @@ echo -e "* $DATE   : $Weather" | tee -a ~/projects/shell_scripting/README.md
 
 date +%d-%m-%Y >> ~/projects/shell_scripting/weather.md
 
-curl -L 'wttr.in/York=.png' -o ~/projects/shell_scripting/img/$time
+curl -L 'wttr.in/York.png' -o ~/projects/shell_scripting/img/$time
  
 echo -e "\n![](img/$time)\n" >> ~/projects/shell_scripting/weather.md
 
