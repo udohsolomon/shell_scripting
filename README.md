@@ -30,3 +30,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 17-11-2018 Sat AM  9:51 GMT   : 8-9°C (Bridlington, United Kingdom)
 * 18-11-2018 Sun AM  6:16 GMT   : 3-4°C (Bridlington, United Kingdom)
 * 18-11-2018 Sun PM  6:18 GMT   : 3-5°C (Bridlington, United Kingdom)
+* 19-11-2018 Mon AM  6:01 GMT   : 6-9°C (Bridlington, United Kingdom)
