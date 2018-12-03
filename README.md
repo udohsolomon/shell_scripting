@@ -40,3 +40,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 22-11-2018 Thu AM  9:41 GMT   : 5°C (Bridlington, United Kingdom)
 * 22-11-2018 Thu AM  9:41 GMT   : 5°C (Bridlington, United Kingdom)
 * 01-12-2018 Sat AM 12:33 GMT   : 3-6°C (Selby, United Kingdom)
+* 03-12-2018 Mon PM  9:16 GMT   : -1-3°C (Dublin, Ireland)
