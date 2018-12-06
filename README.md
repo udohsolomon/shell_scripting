@@ -92,3 +92,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 05-12-2018 Wed AM  4:59 GMT   : -1°C (Dundee, United Kingdom)
 * 05-12-2018 Wed AM  4:59 GMT   : -1°C (Dundee, United Kingdom)
 * 05-12-2018 Wed AM  4:59 GMT   : -1°C (Dundee, United Kingdom)
+* 06-12-2018 Thu PM 11:00 GMT   : 10-12°C (Selby, United Kingdom)
