@@ -160,3 +160,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 10-12-2018 Mon AM  8:34 GMT   : 0-3°C (Selby, United Kingdom)
 * 10-12-2018 Mon AM  8:35 GMT   : 0-3°C (Selby, United Kingdom)
 * 10-12-2018 Mon AM  8:35 GMT   : 0-3°C (Selby, United Kingdom)
+* 10-12-2018 Mon PM  5:00 GMT   : 5-8°C (Coventry, United Kingdom)
