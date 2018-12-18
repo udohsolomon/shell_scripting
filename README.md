@@ -211,3 +211,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 17-12-2018 Mon PM  6:00 GMT   : 3-6°C (Selby, United Kingdom)
 * 18-12-2018 Tue AM 12:00 GMT   : 4-7°C (Selby, United Kingdom)
 * 18-12-2018 Tue AM  6:00 GMT   : 5-9°C (Selby, United Kingdom)
+* 18-12-2018 Tue PM 12:00 GMT   : 6-10°C (Selby, United Kingdom)
