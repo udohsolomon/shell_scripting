@@ -237,3 +237,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 29-12-2018 Sat AM 12:00 GMT   : 3-4°C (Beverley, United Kingdom)
 * 29-12-2018 Sat PM  6:00 GMT   : 7-8°C (Beverley, United Kingdom)
 * 30-12-2018 Sun AM 12:00 GMT   : 4-6°C (Beverley, United Kingdom)
+* 31-12-2018 Mon AM 12:00 GMT   : 7-9°C (Beverley, United Kingdom)
