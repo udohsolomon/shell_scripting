@@ -243,3 +243,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 01-01-2019 Tue PM  6:00 GMT   : 3-6°C (Beverley, United Kingdom)
 * 02-01-2019 Wed PM  6:00 GMT   : 2-5°C (Selby, United Kingdom)
 * 03-01-2019 Thu AM 12:00 GMT   : -1-1°C (Selby, United Kingdom)
+* 03-01-2019 Thu PM  6:00 GMT   : 5°C (Selby, United Kingdom)
