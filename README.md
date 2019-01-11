@@ -255,3 +255,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 09-01-2019 Wed PM  6:00 GMT   : 2-5°C (Selby, United Kingdom)
 * 10-01-2019 Thu AM 12:00 GMT   : -2-2°C (Selby, United Kingdom)
 * 10-01-2019 Thu PM 12:00 GMT   : 
+* 11-01-2019 Fri AM 12:00 GMT   : 7-8°C (Scarborough, United Kingdom)
