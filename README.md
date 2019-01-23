@@ -275,3 +275,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 22-01-2019 Tue AM 12:00 GMT   : -1-3°C (Scarborough, United Kingdom)
 * 22-01-2019 Tue AM  6:00 GMT   : -1-3°C (Scarborough, United Kingdom)
 * 23-01-2019 Wed PM 12:00 GMT   : -5--1°C (Coventry, United Kingdom)
+* 23-01-2019 Wed PM  6:00 GMT   : -2-0°C (Scarborough, United Kingdom)
