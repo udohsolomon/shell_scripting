@@ -298,3 +298,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 07-02-2019 Thu PM  6:00 GMT   : 
 * 08-02-2019 Fri PM 12:00 GMT   : 5-9°C (Coventry, United Kingdom)
 * 10-02-2019 Sun AM 12:00 GMT   : 1-5°C (Scarborough, United Kingdom)
+* 10-02-2019 Sun PM  6:00 GMT   : 2-5°C (Scarborough, United Kingdom)
