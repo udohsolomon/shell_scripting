@@ -307,3 +307,4 @@ Shell_scripting fun example during Linux OS class with my students
 * 14-02-2019 Thu PM 12:00 GMT   : 1-4°C (Coventry, United Kingdom)
 * 15-02-2019 Fri AM 12:00 GMT   : -2-2°C (Malton, United Kingdom)
 * 15-02-2019 Fri AM  6:00 GMT   : -5-0°C (Malton, United Kingdom)
+* 19-02-2019 Tue PM 12:00 GMT   : 2-5°C (Coventry, United Kingdom)
